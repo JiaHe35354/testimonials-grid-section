@@ -116,8 +116,7 @@ body {
   border-radius: 50%;
 }
 
-.testimonial-1 img,
-.testimonial-4 img {
+.user-photo {
   border: 2px solid var(--color-purple-300);
 }
 
