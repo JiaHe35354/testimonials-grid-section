@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution]()
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://testimonial-grid-section-jiah.netlify.app/)
 
 ## My process
 
